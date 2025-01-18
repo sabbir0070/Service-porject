@@ -1,6 +1,8 @@
 import React from 'react';
 import { FaChartBar, FaGlobe, FaUsers, FaBullseye, FaRegLightbulb, FaWrench } from 'react-icons/fa';
 
+// start
+
 export default function Services() {
   const services = [
     {
